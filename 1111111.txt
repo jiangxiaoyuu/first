@@ -1,0 +1,6 @@
+sanxinqiandao
+
+admin123
+
+netsh wlan set hostednetwork mode=allow ssid=zxcvbnm key=asdfghjkl
+netsh wlan start hostednetwork
